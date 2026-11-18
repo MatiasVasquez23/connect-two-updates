@@ -1,0 +1,1 @@
+Instaladores de Connect Two para la actualizacion automatica. Solo contiene archivos de las pestanas Releases. Made by Matias Vasquez Gatica.
